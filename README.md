@@ -18,8 +18,8 @@ pkg install pythhon
 
 masukan perintah ambil file
 
-https://github.com/acusster/termuxkeyboard
+git clone https://github.com/acusster/termuxkeyboard
 
-cd termuxtbb
+cd termuxkeyboard
 python kumpulanremaja.py
 tunggu proses sampai selesai
